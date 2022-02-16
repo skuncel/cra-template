@@ -1,0 +1,28 @@
+{
+  "name": "@aitareko/cra-template",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "tailwind",
+    "tailwindcss"
+  ],
+  "description": "The base TypeScript template for Create React App.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aitareko/cra-template.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "bugs": {
+    "url": "https://github.com/aitareko/cra-template/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
